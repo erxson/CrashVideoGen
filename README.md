@@ -1,1 +1,1 @@
-version for heroku (patched in discord, but crashing operagx :smiling_imp:)
+version for heroku (semipatched in discord, but crashing operagx :smiling_imp:)
